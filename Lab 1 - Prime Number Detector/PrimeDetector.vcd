@@ -1,0 +1,48 @@
+$date
+  Sun Mar 06 14:41:53 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 4 ! sw_tb[3:0] $end
+$var reg 1 " prime_tb $end
+$scope module dut $end
+$var reg 4 # sw[3:0] $end
+$var reg 1 $ prime $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000 !
+0"
+b0000 #
+0$
+#10000000
+b0001 !
+b0001 #
+#20000000
+b0010 !
+b0010 #
+#30000000
+b0011 !
+b0011 #
+#40000000
+b0100 !
+b0100 #
+#50000000
+b0101 !
+b0101 #
+#60000000
+b0110 !
+b0110 #
+#70000000
+b0111 !
+b0111 #
+#80000000
+b1000 !
+b1000 #
+#90000000
+b1001 !
+b1001 #
