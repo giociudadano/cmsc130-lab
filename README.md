@@ -10,7 +10,7 @@ CMSC 130: Logic Design and Digital Computer Circuits introduces programming in V
 
 ### Deadlines
 
-- [ ] **Laboratory 1** - March 7, 2022
+- [x] **Laboratory 1** - March 7, 2022
 - [ ] **Laboratory 2** - March 21, 2022
 - [ ] **Laboratory 3** - April 4, 2022
 - [ ] **Laboratory 4** - April 18, 2022
