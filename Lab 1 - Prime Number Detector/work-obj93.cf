@@ -1,0 +1,7 @@
+v 3
+file . "PrimeDetector_TB.vhd" "20220308032328.000" "20220308210555.564":
+  entity primedetector_tb at 1( 0) + 0 on 107;
+  architecture primedetector_tb_arch of primedetector_tb at 4( 43) + 0 on 108;
+file . "PrimeDetector.vhd" "20220308032328.000" "20220308210555.495":
+  entity primedetector at 1( 0) + 0 on 105;
+  architecture primedetector_arch of primedetector at 6( 106) + 0 on 106;
